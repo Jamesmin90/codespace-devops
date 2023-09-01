@@ -1,6 +1,8 @@
 #!/usr/bin/env python
-import click
 import glob
+import click
+
+
 
 @click.command()
 @click.option(
